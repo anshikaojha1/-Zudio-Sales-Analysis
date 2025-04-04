@@ -78,8 +78,8 @@ Analyzing the relationship between daily unique customer visits (footfall) and t
 
 **Correlation Analysis:**
 
-- **Correlation Coefficient:** *value*
-- **P-value:** *value*
+- **Correlation Coefficient:** *0.79*
+- **P-value:** *0.00000*
 
 *Interpretation based on correlation results.*
 
