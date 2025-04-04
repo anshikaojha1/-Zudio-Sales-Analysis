@@ -18,11 +18,13 @@ Analyzing monthly sales trends over the years helps in understanding the seasona
 
 **Visualization: Line Plot of Monthly Sales Trends**
 
-![Seasonal Sales Trends](seasonal_sales.png)
+![image](https://github.com/user-attachments/assets/987f2f90-59ce-4c54-a14f-214cdd1dfb5c)
+
 
 **Visualization: Heatmap of Seasonal Sales Patterns**
 
-![Seasonal Sales Heatmap](seasonal_sales_heatmap.png)
+![image](https://github.com/user-attachments/assets/55d68cff-d068-4630-926d-de0f762daa35)
+
 
 ## 2. Impact of Festive Seasons on Sales
 
@@ -30,11 +32,13 @@ Evaluating sales performance during festive months (October, November, December)
 
 **Visualization: Sales Performance During Festive vs. Non-Festive Seasons**
 
-![Festive Season Sales](festive.png)
+![image](https://github.com/user-attachments/assets/576f9b42-3f88-4643-80bb-33c9d4238ae6)
+
 
 **Visualization: Sales Distribution During Festive vs. Non-Festive Seasons**
 
-![Festive Season Sales Distribution](festive_boxplot.png)
+![image](https://github.com/user-attachments/assets/63ad5c95-6ea5-4862-bad7-d1c4bdcec29d)
+
 
 ## 3. Effect of Discounts and Promotions on Sales
 
@@ -42,7 +46,8 @@ Investigating how discounts and promotions, inferred from profit margins, affect
 
 **Visualization: Total Sales vs. Percentage of Discounted Sales**
 
-![Discount Impact on Sales](discount.png)
+![image](https://github.com/user-attachments/assets/8ffc4d29-4f1a-49ab-901f-f060b1c1f6a8)
+
 
 ## 4. Top Revenue-Contributing Products
 
@@ -50,7 +55,8 @@ Identifying the top 10 products that contribute most significantly to revenue gr
 
 **Visualization: Top 10 Products by Revenue**
 
-![Top Products Revenue](revenue.png)
+![image](https://github.com/user-attachments/assets/b79e4b50-4744-47e0-8251-edde5dcd16a8)
+
 
 ## 5. Sales Variation Across Store Locations
 
@@ -58,7 +64,8 @@ Examining how sales vary across different cities where Zudio stores are located.
 
 **Visualization: Sales by City**
 
-![Sales by City](location.png)
+![image](https://github.com/user-attachments/assets/006e41cc-67af-42c9-b462-94b0706798e0)
+
 
 ## 6. Impact of Customer Footfall on Sales Performance
 
@@ -66,7 +73,8 @@ Analyzing the relationship between daily unique customer visits (footfall) and t
 
 **Visualization: Customer Footfall vs. Total Sales**
 
-![Footfall Impact on Sales](footfall.png)
+![image](https://github.com/user-attachments/assets/6d89f7f1-f33d-4156-abe4-f6a7eb67a926)
+
 
 **Correlation Analysis:**
 
@@ -81,7 +89,8 @@ Utilizing Holt’s Linear Trend Model to forecast future sales profits for the n
 
 **Visualization: Sales Profit Forecast**
 
-![Sales Profit Forecast](zudio_sales_forecast.png)
+![image](https://github.com/user-attachments/assets/9eced843-fb4b-4630-b5a3-37446d5c1de3)
+
 
 ---
 
