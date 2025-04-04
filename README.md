@@ -1,4 +1,4 @@
-# Zudio Sales Analysis
+# 🛍️ Zudio Sales Analysis
 
 This project provides a comprehensive analysis of Zudio's sales data, focusing on various aspects such as seasonal trends, the impact of festive seasons, effects of discounts and promotions, product contributions to revenue growth, sales variations across different store locations, and the relationship between customer footfall and sales performance. Additionally, the project includes a forecasting model to predict future sales profits.
 
